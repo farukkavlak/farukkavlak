@@ -3,7 +3,6 @@
 
 
 -:office: &nbsp;I'm an **Computer Engineering** student at **TED University**  </br>
--☕: &nbsp;I’m currently learning **Flutter**</br>
 
 
 
