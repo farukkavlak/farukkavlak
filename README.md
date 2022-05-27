@@ -4,11 +4,7 @@
 
 -:office: &nbsp;I'm an **Computer Engineering** student at **TED University**  </br>
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/ömerfarukkavlak"
-
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
