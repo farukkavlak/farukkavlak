@@ -4,6 +4,13 @@
 
 -:office: &nbsp;I'm an **Computer Engineering** student at **TED University**  </br>
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "www.linkedin.com/in/ömerfarukkavlak"
+
+
+
 
 
 
