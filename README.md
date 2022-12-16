@@ -2,7 +2,7 @@
 
 
 
--:office: &nbsp;I'm an **Computer Engineering** student at **TED University**  </br>
+-:office: &nbsp;I'm a Senior Year **Computer Engineering** student at **TED University**, aspiring to become a software developer with a focus on **Backend development**. </br>
 
 
 
