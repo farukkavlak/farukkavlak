@@ -34,7 +34,6 @@ I am actively seeking opportunities in the Software/Back-End Development industr
 <a href="mailto:ofarukkavlak@gmail.com">![ofarukkavlak@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <br>
 <a href="https://www.linkedin.com/in/ömerfarukkavlak/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukkavlak&show_icons=true&locale=en&layout=compact" alt="farukkavlak" /></p>
 
 
 <!-- Badge Links -->
