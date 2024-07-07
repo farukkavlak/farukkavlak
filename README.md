@@ -1,32 +1,30 @@
-<h1 align="left" id="farukkavlak-title">:wave: Hello there! I'm Ömer Faruk Kavlak</h1>
+<h1 align="left" id="farukkavlak-title">🤙 Hi, I'm Ömer Faruk Kavlak</h1>
+builds things for fun
 
-:office: &nbsp;I am a Computer Engineering graduate from **TED University**, specializing in Software / Back-End Development. With knowledge in algorithms, microservices, design patterns, clean code principles, and testing, I possess a solid foundation in the field. </br></br>
-I am actively seeking opportunities in the Software/Back-End Development industry. I am committed to delivering efficient and reliable solutions, while following to industry best practices. I am eager to join a team where I can further enhance my skills and contribute to impactful projects.
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ![Java][java]
-![Node.js][node-js]
 ![Spring][spring]
-![Spring Boot][spring-boot]
+![Node.js][node-js]
 ![Express.js][express-js]
 ![PostgreSQL][postgre]
 ![MongoDB][mongodb]
+
+![Aws][aws]
 ![Firebase][firebase]
 
+![Elastic][elastic]
+![Docker][docker]
+![Kubernetes][kubernetes]
+
 ![JavaScript][javascript]
-![Next.js][next-js]
+![TypeScript][typescript]
 ![React.js][react-js]
-![HTML][html]
-![CSS][css]
-![Flutter][flutter]
-![Dart][dart]
 
 ![Git][git]
-![Azure][azure]
-![Algolia][algolia]
-![Stripe][stripe]
+![Actions][actions]
+![Jira][jira]
+![Terraform][terraform]
 
 
 <h2>📫 How to reach me:</h2>
@@ -38,6 +36,14 @@ I am actively seeking opportunities in the Software/Back-End Development industr
 
 <!-- Badge Links -->
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[aws]: https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[elastic]: https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[terraform]: https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white
+[actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[jira]: https://img.shields.io/badge/jira-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[typescript]: https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [node-js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [spring-boot]: https://camo.githubusercontent.com/7d798ede2233b56431e6707226c348f5bc3d7a7151ca81db74717eed3f5b53f9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537072696e672b426f6f7426636f6c6f723d364442333346266c6f676f3d537072696e672b426f6f74266c6f676f436f6c6f723d464646464646266c6162656c3d
@@ -51,11 +57,6 @@ I am actively seeking opportunities in the Software/Back-End Development industr
 [html]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[azure]: https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
-[flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-[dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-[algolia]: https://camo.githubusercontent.com/d6354ba646d1cb1324c70b206bada01451289e2ee6f427350dee4ce1fdc33aba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416c676f6c696126636f6c6f723d303033444646266c6f676f3d416c676f6c6961266c6f676f436f6c6f723d464646464646266c6162656c3d
-[stripe]: https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white
 
 
 
