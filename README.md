@@ -1,12 +1,11 @@
-<h1 align="left" id="farukkavlak-title">🤙 Hi, I'm Ömer Faruk Kavlak</h1>
 builds things
 
 <h3 align="left">Tech Stack:</h3>
 
-![Java][java]
-![Spring][spring]
 ![Node.js][node-js]
 ![Express.js][express-js]
+![Java][java]
+![Spring][spring]
 ![PostgreSQL][postgre]
 ![MongoDB][mongodb]
 
@@ -15,7 +14,6 @@ builds things
 
 ![Elastic][elastic]
 ![Docker][docker]
-![Kubernetes][kubernetes]
 
 ![JavaScript][javascript]
 ![TypeScript][typescript]
